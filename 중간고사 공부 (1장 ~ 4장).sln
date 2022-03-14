@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "중간고사 공부 (1장 ~ 4장)", "중간고사 공부 (1장 ~ 4장)\중간고사 공부 (1장 ~ 4장).vcxproj", "{DDCBD092-8AE8-4292-B810-55DC07A839BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDCBD092-8AE8-4292-B810-55DC07A839BC}.Debug|x64.ActiveCfg = Debug|x64
+		{DDCBD092-8AE8-4292-B810-55DC07A839BC}.Debug|x64.Build.0 = Debug|x64
+		{DDCBD092-8AE8-4292-B810-55DC07A839BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDCBD092-8AE8-4292-B810-55DC07A839BC}.Debug|x86.Build.0 = Debug|Win32
+		{DDCBD092-8AE8-4292-B810-55DC07A839BC}.Release|x64.ActiveCfg = Release|x64
+		{DDCBD092-8AE8-4292-B810-55DC07A839BC}.Release|x64.Build.0 = Release|x64
+		{DDCBD092-8AE8-4292-B810-55DC07A839BC}.Release|x86.ActiveCfg = Release|Win32
+		{DDCBD092-8AE8-4292-B810-55DC07A839BC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEC4413A-48FF-4BC1-A856-042FEBE25BAE}
+	EndGlobalSection
+EndGlobal
